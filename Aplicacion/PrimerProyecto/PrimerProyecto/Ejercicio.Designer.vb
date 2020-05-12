@@ -33,6 +33,8 @@ Partial Class Ejercicio
         Me.btnResta = New System.Windows.Forms.Button()
         Me.btnMultiplicacion = New System.Windows.Forms.Button()
         Me.btnDivision = New System.Windows.Forms.Button()
+        Me.lblFecha = New System.Windows.Forms.Label()
+        Me.lblMensaje = New System.Windows.Forms.Label()
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -96,6 +98,8 @@ Partial Class Ejercicio
         '
         'Panel1
         '
+        Me.Panel1.Controls.Add(Me.lblMensaje)
+        Me.Panel1.Controls.Add(Me.lblFecha)
         Me.Panel1.Controls.Add(Me.btnDivision)
         Me.Panel1.Controls.Add(Me.btnMultiplicacion)
         Me.Panel1.Controls.Add(Me.btnResta)
@@ -106,9 +110,9 @@ Partial Class Ejercicio
         Me.Panel1.Controls.Add(Me.txtNum1)
         Me.Panel1.Controls.Add(Me.lblN2)
         Me.Panel1.Controls.Add(Me.lblN1)
-        Me.Panel1.Location = New System.Drawing.Point(118, 12)
+        Me.Panel1.Location = New System.Drawing.Point(137, 22)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(552, 344)
+        Me.Panel1.Size = New System.Drawing.Size(493, 300)
         Me.Panel1.TabIndex = 0
         '
         'btnResta
@@ -141,6 +145,25 @@ Partial Class Ejercicio
         Me.btnDivision.Text = "%"
         Me.btnDivision.UseVisualStyleBackColor = True
         '
+        'lblFecha
+        '
+        Me.lblFecha.AutoSize = True
+        Me.lblFecha.Location = New System.Drawing.Point(14, 10)
+        Me.lblFecha.Name = "lblFecha"
+        Me.lblFecha.Size = New System.Drawing.Size(37, 13)
+        Me.lblFecha.TabIndex = 1
+        Me.lblFecha.Text = "Fecha"
+        '
+        'lblMensaje
+        '
+        Me.lblMensaje.AutoSize = True
+        Me.lblMensaje.Font = New System.Drawing.Font("Cambria", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblMensaje.Location = New System.Drawing.Point(213, 30)
+        Me.lblMensaje.Name = "lblMensaje"
+        Me.lblMensaje.Size = New System.Drawing.Size(97, 28)
+        Me.lblMensaje.TabIndex = 10
+        Me.lblMensaje.Text = "Mensaje"
+        '
         'Ejercicio
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -166,4 +189,6 @@ Partial Class Ejercicio
     Friend WithEvents btnResta As Button
     Friend WithEvents btnDivision As Button
     Friend WithEvents btnMultiplicacion As Button
+    Friend WithEvents lblFecha As Label
+    Friend WithEvents lblMensaje As Label
 End Class
