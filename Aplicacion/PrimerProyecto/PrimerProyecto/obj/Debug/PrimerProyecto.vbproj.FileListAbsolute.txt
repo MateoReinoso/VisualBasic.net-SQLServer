@@ -10,3 +10,4 @@ C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerPro
 C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.exe
 C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.xml
 C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.pdb
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.Ejercicio.resources
