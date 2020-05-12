@@ -1,0 +1,12 @@
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.exe.config
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.exe
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.pdb
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.xml
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.vbprojAssemblyReference.cache
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.Form1.resources
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.Resources.resources
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.vbproj.GenerateResource.cache
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.exe
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.xml
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.pdb
