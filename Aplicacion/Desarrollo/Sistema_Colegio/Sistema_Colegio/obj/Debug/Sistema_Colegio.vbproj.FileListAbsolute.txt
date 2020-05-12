@@ -1,0 +1,11 @@
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\bin\Debug\Sistema_Colegio.exe
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\bin\Debug\Sistema_Colegio.pdb
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\bin\Debug\Sistema_Colegio.xml
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.vbprojAssemblyReference.cache
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.frmPrincipal.resources
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.vbproj.GenerateResource.cache
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.vbproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.exe
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.xml
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.pdb
