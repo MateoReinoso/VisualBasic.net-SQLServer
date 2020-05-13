@@ -9,3 +9,4 @@ C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Coleg
 C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.exe
 C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.xml
 C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.pdb
+C:\Users\Mateo\Desktop\VisualBasic&SQLserver\Aplicacion\Desarrollo\Sistema_Colegio\Sistema_Colegio\obj\Debug\Sistema_Colegio.Usuario.resources
